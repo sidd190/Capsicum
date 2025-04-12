@@ -46,10 +46,6 @@ A self designed website **Capsicum** website built using **HTML, CSS, and JavaSc
 <img src="images/Screenshot 2.png" alt="Screenshot 2">
 <img src="images/Screenshot 3.png" alt="Screenshot 3">
 
-## 📄 License
-
-This project is intended for educational purposes only and is not affiliated with Duo Studios.
-
 ## 👨‍💻 Author
 
 Made by Siddharth Bansal
