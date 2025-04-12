@@ -42,9 +42,9 @@ A self designed website **Capsicum** website built using **HTML, CSS, and JavaSc
 3. Open `index.html` in your preferred browser or use Live Server.
 
 ## 📷 Screenshots
-<img src="images/Screenshot1.png" alt="Screenshot 1">
-<img src="images/Screenshot2.png" alt="Screenshot 2">
-<img src="images/Screenshot3.png" alt="Screenshot 3">
+<img src="images/Screenshot 1.png" alt="Screenshot 1">
+<img src="images/Screenshot 2.png" alt="Screenshot 2">
+<img src="images/Screenshot 3.png" alt="Screenshot 3">
 
 ## 📄 License
 
